@@ -1,0 +1,22 @@
+
+# initialize list of names
+names=["Arya", "Daenerys", "Jon", "Mayor of friend-zone", "Melisandre", "Jaime" ]
+
+# list through the list of names and print it
+for name in names:
+    print(name)
+
+# print all names with their destiny
+for name in names:
+    print(name + " is (or soon will be) dead.")
+
+# Lets be generous and kill just a half of the characters
+# Hint: we should count how many characters we have already killed
+
+for name in names:
+	# edit this condition and add changes accordingly 
+    if something:
+    	print(name + " is survivor.")
+    else:
+        print(name + " is dead!")
+
