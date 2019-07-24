@@ -1,5 +1,5 @@
 # Python-workshop
-In this repository we store materials for Minervo s.r.o. Python Workshop. Each file should store specific instructions. For better context we recommend reading attached presentation.
+In this repository we store materials for Minervo s.r.o. Python Introduction Workshop. Each file should store specific instructions. For better context we recommend reading attached presentation.
 # Donwloading this repository
 For begginers we recommend to just use download button in the top right, download as zip.
 
